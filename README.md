@@ -24,6 +24,6 @@ In **Markdown**, you can even *alter* the looks of texts using:
 2. \*\*text\*\* for **bold** texts.
 
 ## Links
-> Dont forget to cite your sources:
-> - [Markdown Basics](https://www.markdownguide.org/basic-syntax/)
-> - [Markdown Tutorial](https://www.markdowntutorial.com/)
+Sources used:
+ - [Markdown Basics](https://www.markdownguide.org/basic-syntax/)
+ - [Markdown Tutorial](https://www.markdowntutorial.com/)
