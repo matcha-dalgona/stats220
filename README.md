@@ -1,11 +1,12 @@
 # Stats 220
 > This repo was created to show what you can do in **Markdown**.
 
-## Headers
-In Markdown, you can create headers with different levels; using the `#` syntax.
-## Just
-### Like
-#### This
+## Headings
+You can create headers with different levels using the `#` syntax in Markdown.
+### Example
+|Syntax|Output|
+|------|------|
+|\# Heading 1|# Heading 1|
 
 ## Bullet points
 You can use two different types of bullet points:
