@@ -12,6 +12,7 @@ You can create headers with different levels using the `#` syntax in Markdown.
 You can use two different types of bullet points:
 1. Ordered
 2. Unordered
+
 You can use bullet points to:
 - List items.
 - Divide sentences for readability.
