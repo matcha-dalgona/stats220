@@ -20,8 +20,8 @@ You can use bullet points to:
 
 ## Bolds and Italics
 In **Markdown**, you can even *alter* the looks of texts using:
-1. \*text\* for italicized texts, and
-2. \*\*text\*\* for bold texts.
+1. \*text\* or \_text\_ for *italicized* texts, and
+2. \*\*text\*\* for **bold** texts.
 
 ## Links
 > Dont forget to cite your sources:
