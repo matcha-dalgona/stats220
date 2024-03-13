@@ -3,10 +3,10 @@
 
 ## Headings
 You can create headers with different levels using the `#` syntax in Markdown.
-### Example
-|Syntax|Output|
-|------|------|
-|\# Heading 1|# Heading 1|
+### Example Usage
+- \# Heading Level 1
+- \## Heading Level 2
+- \### Heading Level 3
 
 ## Bullet points
 You can use two different types of bullet points:
