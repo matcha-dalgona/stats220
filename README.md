@@ -1,8 +1,8 @@
 # Stats 220
-> This repo was created to show what you can do in **Markdown**, to demonstrate my knowledge of it.
+> Masked as a tutorial, this repo was created to demonstrate my knowledge of what you can do in **Markdown**.
 
 ## Headings
-You can create headers with different levels using the `#` syntax in Markdown.
+You can create headers with different levels using Markdown's `#` syntax.
 #### Example Usage
 - \# Heading Level 1
 - \## Heading Level 2
